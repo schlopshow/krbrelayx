@@ -10,7 +10,7 @@ More info about this toolkit available in my blog <https://dirkjanm.io/krbrelayx
 
 You can use Pipx or UV for installation
 ```
-uv tool install git+https://github.com/schlopshow/krbrelayx
+uv tool install git+https://github.com/dirkjanm/krbrelayx.git
 ```
 ## Uninstall
 ```
